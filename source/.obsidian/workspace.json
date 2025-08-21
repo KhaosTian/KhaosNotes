@@ -1,40 +1,22 @@
 {
   "main": {
-    "id": "ee268d0b3ee25a16",
+    "id": "0542cf40a7321602",
     "type": "split",
     "children": [
       {
-        "id": "4c13fd516bd4822d",
+        "id": "e5cad619b50d5ad7",
         "type": "tabs",
         "children": [
           {
-            "id": "978b8e6b394e181e",
+            "id": "9dfadbe658a5e755",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/gpu-cache-image-1.png"
               },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1c230754a8dd578a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aad63ee3e515c7ca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-image",
+              "title": "gpu-cache-image-1"
             }
           }
         ]
@@ -43,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b36f1af2ce93b318",
+    "id": "3e2679a1a4be7e66",
     "type": "split",
     "children": [
       {
-        "id": "ba5a7b90df64bc72",
+        "id": "1c3a629a58ee44d4",
         "type": "tabs",
         "children": [
           {
-            "id": "8673314b71e5305f",
+            "id": "a7777004be8ced6f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,30 +46,30 @@
             }
           },
           {
-            "id": "9f354490a4b506ad",
+            "id": "70fb12eb9a2edf4b",
             "type": "leaf",
             "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
-            }
-          },
-          {
-            "id": "4b92d539148920dc",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
+              "type": "git-view",
               "state": {},
-              "icon": "lucide-bookmark",
-              "title": "书签"
+              "icon": "git-pull-request",
+              "title": "源代码管理"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ee083533c206739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e2759c97c76dfa",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -97,20 +79,20 @@
     "width": 300
   },
   "right": {
-    "id": "c58dcb69f2a22af9",
+    "id": "8130bccb43d56d04",
     "type": "split",
     "children": [
       {
-        "id": "416ba8ae654d29ce",
+        "id": "d8dccc365f9e3b02",
         "type": "tabs",
         "children": [
           {
-            "id": "67ffbb7735a92e4a",
+            "id": "7c3cb93e9bd35721",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "assets/gpu-cache-image-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +102,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "gpu-cache-image-1 的反向链接列表"
             }
           },
           {
-            "id": "3767735104a1de12",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "欢迎.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
-            }
-          },
-          {
-            "id": "8d69cf29804f0450",
+            "id": "55baf4ebf5f376a2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,39 +121,56 @@
             }
           },
           {
-            "id": "1a5679ec3ec5ec1f",
+            "id": "f799dc14f9b23496",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "assets/gpu-cache-image-1.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "gpu-cache-image-1 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "remotely-save:Remotely Save": false,
+      "pkmer:Open Pkmer Market": false,
+      "i18n:I18N": false,
+      "obsidian-git:打开Git源代码管理": false,
+      "pkmer:打开 Pkmer 插件市场": false
     }
   },
-  "active": "978b8e6b394e181e",
+  "active": "a7777004be8ced6f",
   "lastOpenFiles": [
-    "欢迎.md"
+    "未命名.canvas",
+    "gpu-cache.md",
+    "assets/gpu-cache-image-1.png",
+    "assets/gpu-cache-1.png",
+    "assets/gpu-cache.png",
+    "assets/Pasted image 20250821161024.png",
+    "assets",
+    "image.png"
   ]
 }
