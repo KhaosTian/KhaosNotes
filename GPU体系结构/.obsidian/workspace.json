@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "0542cf40a7321602",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5cad619b50d5ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dfadbe658a5e755",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e2679a1a4be7e66",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c3a629a58ee44d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7777004be8ced6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "70fb12eb9a2edf4b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "源代码管理"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ee083533c206739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e2759c97c76dfa",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8130bccb43d56d04",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8dccc365f9e3b02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c3cb93e9bd35721",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "assets/gpu-cache-image-1.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "gpu-cache-image-1 的反向链接列表"
+            }
+          },
+          {
+            "id": "55baf4ebf5f376a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f799dc14f9b23496",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "assets/gpu-cache-image-1.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "gpu-cache-image-1 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "remotely-save:Remotely Save": false,
+      "pkmer:Open Pkmer Market": false,
+      "i18n:I18N": false,
+      "obsidian-git:打开Git源代码管理": false,
+      "pkmer:打开 Pkmer 插件市场": false
+    }
+  },
+  "active": "f799dc14f9b23496",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "gpu-cache.md",
+    "assets/gpu-cache-image-1.png",
+    "assets/gpu-cache-1.png",
+    "assets/gpu-cache.png",
+    "assets/Pasted image 20250821161024.png",
+    "assets",
+    "image.png"
+  ]
+}
