@@ -11,12 +11,14 @@
             "id": "9dfadbe658a5e755",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/gpu-cache-image-1.png"
+                "file": "GPU体系结构/gpu-cache.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "gpu-cache-image-1"
+              "icon": "lucide-file",
+              "title": "gpu-cache"
             }
           }
         ]
@@ -44,19 +46,8 @@
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
-          },
-          {
-            "id": "70fb12eb9a2edf4b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "源代码管理"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1ee083533c206739",
@@ -76,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 203.5
   },
   "right": {
     "id": "8130bccb43d56d04",
@@ -126,17 +117,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/gpu-cache-image-1.png",
+                "file": "GPU体系结构/gpu-cache.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "gpu-cache-image-1 的大纲"
+              "title": "gpu-cache 的大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,32 +136,23 @@
   "left-ribbon": {
     "hiddenItems": {
       "omnisearch:Omnisearch": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "remotely-save:Remotely Save": false,
-      "pkmer:Open Pkmer Market": false,
+      "pkmer:打开 Pkmer 插件市场": false,
       "i18n:I18N": false,
-      "obsidian-git:打开Git源代码管理": false,
-      "pkmer:打开 Pkmer 插件市场": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7777004be8ced6f",
+  "active": "55baf4ebf5f376a2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-08-22 14.05.18.excalidraw.md",
+    "GPU体系结构/gpu-cache.md",
+    "Excalidraw",
+    "GPU体系结构/assets/gpu-cache-image-1.png",
+    "GPU体系结构",
     "未命名.canvas",
-    "gpu-cache.md",
-    "assets/gpu-cache-image-1.png",
     "assets/gpu-cache-1.png",
     "assets/gpu-cache.png",
     "assets/Pasted image 20250821161024.png",
-    "assets",
+    "GPU体系结构/assets",
     "image.png"
   ]
 }

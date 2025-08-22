@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "gpu-cache",
+      "path": "GPU体系结构/gpu-cache.md"
+    },
+    {
       "basename": "gpu-cache-image-1",
-      "path": "assets/gpu-cache-image-1.png"
+      "path": "GPU体系结构/assets/gpu-cache-image-1.png"
     }
   ],
   "omittedPaths": [],

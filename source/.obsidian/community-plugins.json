@@ -2,7 +2,6 @@
   "obsidian-paste-image-rename",
   "pkmer",
   "i18n",
-  "obsidian-git",
   "obsidian-style-settings",
   "obsidian-admonition",
   "table-editor-obsidian",
@@ -13,6 +12,5 @@
   "omnisearch",
   "url-into-selection",
   "recent-files-obsidian",
-  "tag-wrangler",
-  "obsidian-excalidraw-plugin"
+  "tag-wrangler"
 ]
